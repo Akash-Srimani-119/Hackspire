@@ -1,0 +1,37 @@
+Product Name,Shop,Order Date,Order Quantity
+Bed,shop1,2024-05-15,100.0
+Bed,shop2,"(None, 0)",100.0
+Bed,shop3,"(datetime.date(2024, 5, 15), 5)",100.0
+Sofa,shop1,"(datetime.date(2024, 5, 15), 4.0)",100.0
+Sofa,shop2,"(datetime.date(2024, 5, 15), 8)",100.0
+Sofa,shop3,"(datetime.date(2024, 5, 15), 15)",100.0
+Sofa,shop1,"(datetime.date(2024, 5, 15), 1.0)",100.0
+Sofa,shop2,"(datetime.date(2024, 5, 15), 0)",100.0
+Sofa,shop3,"(datetime.date(2024, 5, 15), 3)",100.0
+Bed,shop1,2024-05-15,10.0
+Bed,shop2,,0.0
+Bed,shop3,,0.0
+Bed,shop1,2024-05-15,9.0
+Bed,shop2,,0.0
+Bed,shop3,,0.0
+Sofa,shop1,2024-05-15,1.0
+Sofa,shop2,2024-05-15,2.0
+Sofa,shop3,2024-05-15,6.0
+Sofa,shop1,2024-05-15,3.0
+Sofa,shop2,2024-05-15,2.0
+Sofa,shop3,2024-05-15,13.0
+Sofa,shop1,2024-05-15,3.0
+Sofa,shop2,2024-05-15,6.0
+Sofa,shop3,2024-05-15,7.0
+Bed,shop1,2024-05-15,112.0
+Bed,shop2,,0.0
+Bed,shop3,,0.0
+Bed,shop1,2024-05-15,10.0
+Bed,shop2,,0.0
+Bed,shop3,,0.0
+Bed,shop1,2024-05-15,12.0
+Bed,shop2,,0.0
+Bed,shop3,,0.0
+Sofa,shop1,2024-05-15,4.0
+Sofa,shop2,2024-05-15,3.0
+Sofa,shop3,2024-05-15,15.0
